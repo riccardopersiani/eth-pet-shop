@@ -16,6 +16,8 @@
     "lite-server": "^2.4.0"
   },
   "dependencies": {
-    "solc": "^0.4.19"
+    "solc": "^0.4.19",
+    "lodash": ">=4.17.13",
+    "axios": ">=0.18.1"
   }
 }
